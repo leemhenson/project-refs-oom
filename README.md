@@ -1,7 +1,7 @@
-=== Project references out of memory error
+### Project references out of memory error
 
-Open `stacks/project-one/src/app.ts`
-Observe tsserver chomping memory like it's going out of fashion.
-Toggle the comments on the two lines defining v1.
-Restart Typescript
-Observe tsserver behaving normally.
+1. Open `stacks/project-one/src/app.ts`
+2. Observe tsserver chomping memory like it's going out of fashion.
+3. Toggle the comments on the two lines defining v1.
+4. Restart Typescript
+5. Observe tsserver behaving normally.
