@@ -12,6 +12,7 @@
     "typescript": "^3.4.0-dev.20190329"
   },
   "dependencies": {
-    "fp-ts": "^1.15.0"
+    "fp-ts": "^1.15.0",
+    "io-ts": "^1.8.4"
   }
 }
