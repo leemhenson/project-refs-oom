@@ -1,5 +1,4 @@
-import * as t from "io-ts";
-import { Option } from "fp-ts/lib/Option";
+import { Option, fromNullable } from "fp-ts/lib/Option";
 import { makeSharedOption } from "@shared/lib/options";
 
 // Does not cause OOM:
@@ -8,4 +7,4 @@ import { makeSharedOption } from "@shared/lib/options";
 // Does
 export const v1: Option<Date> = makeSharedOption(false);
 
-export const v2 = t.type({ a: t.number });
+export const v2 = fromNullable(undefined);
