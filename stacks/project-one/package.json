@@ -9,7 +9,7 @@
   },
   "devDependencies": {
     "@types/node": "^11.11.3",
-    "typescript": "^3.4.0-dev.20190329"
+    "typescript": "^3.5.0-dev.20190407"
   },
   "dependencies": {
     "fp-ts": "^1.15.0",
