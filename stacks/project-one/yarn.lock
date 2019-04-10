@@ -19,7 +19,7 @@ io-ts@^1.8.4:
   dependencies:
     fp-ts "^1.0.0"
 
-typescript@^3.5.0-dev.20190407:
-  version "3.5.0-dev.20190407"
-  resolved "https://registry.yarnpkg.com/typescript/-/typescript-3.5.0-dev.20190407.tgz#5b5f9e2031c8ddf5bb9d9be36e70bc77327b0d0c"
-  integrity sha512-bm99LTk3/h7Hx0/GkiLhXEzg6ryWEHa0yTFzMVpUNI9RzFn2AGvrPVlnsIlqNrFwTmA8/GPbr7f8hanlk1kyiQ==
+typescript@^3.5.0-dev.20190410:
+  version "3.5.0-dev.20190410"
+  resolved "https://registry.yarnpkg.com/typescript/-/typescript-3.5.0-dev.20190410.tgz#670be9d1f29e60bc6680041443425d8e01de23d9"
+  integrity sha512-MkhSMfibPgShcTAQfV7vfpqFYiz/Glquaiu/lOLeE9ntRzJF2g01fBWzoxO5PYOwFaTl6UWGWlZJqBMttMCC7w==
