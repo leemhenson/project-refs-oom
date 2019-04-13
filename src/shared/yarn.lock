@@ -13,6 +13,6 @@ fp-ts@^1.15.0:
   integrity sha512-D0gnY9qnpifaqNABqSKjttOW4YVpAHK7I7hcstJllbyqS1GKzbQoAguZYr77DhXzIXnsJiqo65dCHJZq6ouxiQ==
 
 typescript@^3.5.0-dev.20190410:
-  version "3.5.0-dev.20190410"
-  resolved "https://registry.yarnpkg.com/typescript/-/typescript-3.5.0-dev.20190410.tgz#670be9d1f29e60bc6680041443425d8e01de23d9"
-  integrity sha512-MkhSMfibPgShcTAQfV7vfpqFYiz/Glquaiu/lOLeE9ntRzJF2g01fBWzoxO5PYOwFaTl6UWGWlZJqBMttMCC7w==
+  version "3.5.0-dev.20190413"
+  resolved "https://registry.yarnpkg.com/typescript/-/typescript-3.5.0-dev.20190413.tgz#1af28da67c1ebc218562e495d9c5941bf6723781"
+  integrity sha512-tljte3z7Cx/osnlUb5TM4I1XVFS+nDae7kOUhBBtSA1r+9FzAoSJ6EgIXUclcSutPX5ls/02p6pilXg+0bTY3g==
