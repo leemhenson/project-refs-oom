@@ -12,7 +12,8 @@
     "typescript": "^3.5.0-dev.20190410"
   },
   "dependencies": {
-    "fp-ts": "^1.15.0",
+    "fp-ts": "^1.16.1",
     "io-ts": "^1.8.4"
-  }
+  },
+  "peerDependencies": {}
 }

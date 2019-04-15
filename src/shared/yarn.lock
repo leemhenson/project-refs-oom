@@ -7,10 +7,10 @@
   resolved "https://registry.yarnpkg.com/@types/node/-/node-11.12.1.tgz#d90123f6c61fdf2f7cddd286ddae891586dd3488"
   integrity sha512-sKDlqv6COJrR7ar0+GqqhrXQDzQlMcqMnF2iEU6m9hLo8kxozoAGUazwPyELHlRVmjsbvlnGXjnzyptSXVmceA==
 
-fp-ts@^1.15.0:
-  version "1.15.0"
-  resolved "https://registry.yarnpkg.com/fp-ts/-/fp-ts-1.15.0.tgz#7706d6761cc98ccbece91c2ff2e5a5b924f65f3d"
-  integrity sha512-D0gnY9qnpifaqNABqSKjttOW4YVpAHK7I7hcstJllbyqS1GKzbQoAguZYr77DhXzIXnsJiqo65dCHJZq6ouxiQ==
+fp-ts@^1.16.1:
+  version "1.16.1"
+  resolved "https://registry.yarnpkg.com/fp-ts/-/fp-ts-1.16.1.tgz#4e714f0c5d65741e47ef76ead409c0f4e638efaa"
+  integrity sha512-GPPiYLpyU3eojODczL2bFeNM/bKpxWIhQTZ7OEVoTFkHlPKJ61DTFPX9sp5jbVbX8yig8AxMoQZ6CwNVqYM9NA==
 
 typescript@^3.5.0-dev.20190410:
   version "3.5.0-dev.20190413"

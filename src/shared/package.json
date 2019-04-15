@@ -8,11 +8,12 @@
     "type": "git",
     "url": ""
   },
-  "dependencies": {
-    "fp-ts": "^1.15.0"
-  },
+  "dependencies": {},
   "devDependencies": {
     "@types/node": "^11.11.3",
     "typescript": "^3.5.0-dev.20190410"
+  },
+  "peerDependencies": {
+    "fp-ts": "^1.16.1"
   }
 }
