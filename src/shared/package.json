@@ -9,7 +9,7 @@
     "url": ""
   },
   "dependencies": {
-    "fp-ts": "^1.15.0"
+    "fp-ts": "github:gcanti/fp-ts#v2-lib"
   },
   "devDependencies": {
     "@types/node": "^11.11.3",
