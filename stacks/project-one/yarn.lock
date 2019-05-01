@@ -7,21 +7,14 @@
   resolved "https://registry.yarnpkg.com/@types/node/-/node-11.13.8.tgz#e5d71173c95533be9842b2c798978f095f912aab"
   integrity sha512-szA3x/3miL90ZJxUCzx9haNbK5/zmPieGraZEe4WI+3srN0eGLiT22NXeMHmyhNEopn+IrxqMc7wdVwvPl8meg==
 
-fp-ts@^1.0.0:
-  version "1.17.2"
-  resolved "https://registry.yarnpkg.com/fp-ts/-/fp-ts-1.17.2.tgz#d8ab44a535ea53aad0623b289c15fad7e1f00e54"
-  integrity sha512-8Ldcoj8IkYuOqINRcGeSI3JoatMM1A6rg2n4tn5jgaV7nwcX45UNOkFMhMpboEz4b+C+HKcc2tqOUmdu/hIBNw==
-
 "fp-ts@github:gcanti/fp-ts#v2-lib":
   version "2.0.0"
   resolved "https://codeload.github.com/gcanti/fp-ts/tar.gz/93001f8d87b0a658a02de5910e4c93877f285751"
 
-io-ts@^1.8.4:
-  version "1.8.5"
-  resolved "https://registry.yarnpkg.com/io-ts/-/io-ts-1.8.5.tgz#2e102f7f518abe17b0f7e7ede0db54a4c4ddc188"
-  integrity sha512-4HzDeg7mTygFjFIKh7ajBSanoVaFryYSFI0ocdwndSWl3eWQXhg3wVR0WI+Li5Vq11TIsoIngQszVbN4dy//9A==
+"shared@file:../../src/shared":
+  version "1.0.0"
   dependencies:
-    fp-ts "^1.0.0"
+    fp-ts "github:gcanti/fp-ts#v2-lib"
 
 typescript@^3.5.0-dev.20190410:
   version "3.5.0-dev.20190501"

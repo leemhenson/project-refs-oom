@@ -12,7 +12,6 @@
     "typescript": "^3.5.0-dev.20190410"
   },
   "dependencies": {
-    "fp-ts": "github:gcanti/fp-ts#v2-lib",
-    "io-ts": "^1.8.4"
+    "shared": "file:../../src/shared"
   }
 }

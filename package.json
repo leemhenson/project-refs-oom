@@ -3,5 +3,9 @@
   "dependencies": {},
   "devDependencies": {
     "typescript": "^3.4.0-dev.20190315"
+  },
+  "scripts": {
+    "clean": "tsc --build --clean",
+    "watch": "tsc --build --watch --verbose"
   }
 }
