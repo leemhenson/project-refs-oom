@@ -13,6 +13,6 @@
   },
   "devDependencies": {
     "@types/node": "^11.11.3",
-    "typescript": "^3.5.0-dev.20190410"
+    "typescript": "^3.5.0-dev.20190518"
   }
 }
